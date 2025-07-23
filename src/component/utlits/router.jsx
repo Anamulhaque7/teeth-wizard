@@ -20,10 +20,10 @@ const router = createBrowserRouter([
                 path: '/',
                 element: <Home></Home>,
                 loader: async () => {
-                    const servicesRes = await fetch("/public/service.json");
+                    const servicesRes = await fetch("/service.json");
                     const services = await servicesRes.json();
 
-                    const fedbackRes = await fetch("/public/review.json")
+                    const fedbackRes = await fetch("review.json")
                     const feedBackData = await fedbackRes.json();
 
                     return { feedBackData, services }
