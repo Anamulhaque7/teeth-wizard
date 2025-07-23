@@ -22,12 +22,12 @@ const FeedBack = ({ feedback }) => {
                             <div className="mask mask-star" aria-label="5 star"></div>
                         </div>
                     </div>
-                    <button className="btn">Buy Now</button>
+                    <div className="flex justify-between items-center">
+                        <p className="text-sm"><span className="font-bold">Location </span>: {feedback.location}</p>
+
+                    </div>
                 </div>
-                <div className="flex justify-between items-center">
-                    <p className="text-sm"><span className="font-bold">Location </span>: {feedback.location}</p>
-                    
-                </div>
+
 
             </div>
         </div>

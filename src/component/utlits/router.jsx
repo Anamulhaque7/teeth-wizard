@@ -45,14 +45,14 @@ const router = createBrowserRouter([
             {
                 path: '/alltreatment',
                 element: <AllTreatments></AllTreatments>,
-                loader: () => fetch("/public/service.json")
+                loader: () => fetch("/service.json")
             },
             {
                 path: '/alldetails/:id',
                 element: <PrivateRoute><AllDeatilsCard></AllDeatilsCard></PrivateRoute>,
                 loader: async ({ params }) => {
 
-                    const res = await fetch('/public/service.json');
+                    const res = await fetch('/service.json');
                     const data = await res.json()
                     const singelData = data.find(d => d.id == params.id)
                     return singelData;
