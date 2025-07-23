@@ -1,0 +1,38 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Alex Johnson",
+    "userImg": "./imge/Alex Johnson.jpg",
+    "review": "Amazing product! It exceeded my expectations. The build quality is top-notch, and the features work flawlessly. Highly recommend!",
+    "rating": 5,
+    "date": "2025-07-15",
+    "location": "New York, USA"
+  },
+  {
+    "reviewId": 2,
+    "name": "Samantha Lee",
+    "userImg": "./imge/Samantha Lee.jpg",
+    "review": "I had some issues with setup, but once I figured it out, it worked great. The customer service team was helpful and responsive. Would give 4 stars.",
+    "rating": 4,
+    "date": "2025-07-16",
+    "location": "Los Angeles, USA"
+  },
+  {
+    "reviewId": 3,
+    "name": "David Smith",
+    "userImg": "./imge/David Smith.jpg",
+    "review": "Good value for the price. It works well, but there are some minor glitches that could use improvement. Overall, satisfied with the purchase.",
+    "rating": 3,
+    "date": "2025-07-17",
+    "location": "Chicago, USA"
+  },
+  {
+    "reviewId": 4,
+    "name": "Emily Parker",
+    "userImg": "./imge/Emily Parker.jpg",
+    "review": "Absolutely love it! The quality and performance are outstanding. Worth every penny. Definitely would purchase again!",
+    "rating": 5,
+    "date": "2025-07-18",
+    "location": "Houston, USA"
+  }
+]
