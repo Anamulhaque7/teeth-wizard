@@ -1,70 +1,70 @@
 [
   {
     "id": 1,
-    "image": "/public/imge/Teeth-Cleaning.jpg",
+    "image": "./imge/Teeth-Cleaning.jpg",
     "title": "Teeth Cleaning",
     "description_en": "Advanced ultrasonic cleaning to remove plaque and stains from teeth.",
     "cost": 1200
   },
   {
     "id": 2,
-    "image": "/public/imge/Braces.jpg",
+    "image": "./imge/Braces.jpg",
     "title": "Braces Treatment",
     "description_en": "High-quality braces to align and straighten teeth effectively.",
     "cost": 25000
   },
   {
     "id": 3,
-    "image": "/public/imge/RootCanalTherapy.jpg",
+    "image": "./imge/RootCanalTherapy.jpg",
     "title": "Root Canal Therapy",
     "description_en": "Safe and painless root canal therapy to relieve toothache.",
     "cost": 5000
   },
   {
     "id": 4,
-    "image": "/public/imge/Toothhitening.jpg",
+    "image": "./imge/Toothhitening.jpg",
     "title": "Tooth Whitening",
     "description_en": "Restore your natural shine with our modern tooth whitening technology.",
     "cost": 3000
   },
   {
     "id": 5,
-    "image": "/public/imge/DentalImplant.jpg",
+    "image": "./imge/DentalImplant.jpg",
     "title": "Dental Implant",
     "description_en": "Permanent and secure dental implants by experienced doctors.",
     "cost": 40000
   },
   {
     "id": 6,
-    "image": "/public/imge/ToothExtraction.jpg",
+    "image": "./imge/ToothExtraction.jpg",
     "title": "Tooth Extraction",
     "description_en": "Safe and easy removal of damaged or extra teeth.",
     "cost": 1500
   },
   {
     "id": 7,
-    "image": "/public/imge/PediatricDentistry.jpg",
+    "image": "./imge/PediatricDentistry.jpg",
     "title": "Pediatric Dentistry",
     "description_en": "Friendly dental care environment for children.",
     "cost": 1800
   },
   {
     "id": 8,
-    "image": "/public/imge/DentalCheckup.jpg",
+    "image": "./imge/DentalCheckup.jpg",
     "title": "Dental Checkup",
     "description_en": "Regular dental checkups to ensure your oral health.",
     "cost": 800
   },
   {
     "id": 9,
-    "image": "/public/imge/WisdomToothSurgery.jpg",
+    "image": "./imge/WisdomToothSurgery.jpg",
     "title": "Wisdom Tooth Surgery",
     "description_en": "Advanced surgical services for complicated wisdom teeth removal.",
     "cost": 6000
   },
   {
     "id": 10,
-    "image": "/public/imge/DentalImplant.jpg",
+    "image": "./imge/DentalImplant.jpg",
     "title": "Dental X-Ray",
     "description_en": "Digital X-ray services to detect internal dental issues.",
     "cost": 1000
