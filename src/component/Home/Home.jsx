@@ -27,7 +27,7 @@ const Home = () => {
             </div>
             <div className="grid mt-7  mx-auto gap-4 md:grid-cols-2 lg:grid-cols-3 w-[95%]">
                 {
-                    feedBackData.map(feed => <FeedBack key={feed.id} feedback={feed}></FeedBack>)
+                    feedBackData.map((feed) => <FeedBack key={feed.id} feedback={feed}></FeedBack>)
                 }
             </div>
 
